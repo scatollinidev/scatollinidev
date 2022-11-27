@@ -7,7 +7,6 @@
 * 👨🏻‍💻 20y;
 * 🇧🇷 Brazil;
 * 📚 Currently student on <a href="https://lp.rocketseat.com.br/ignite?&&_gl=1*1hxy951*_ga*MTI3OTc1NzM4OC4xNjY4NzAxODU4*_ga_74RKNGM8RL*MTY2OTU3NTExOC43LjAuMTY2OTU3NTExOC42MC4wLjA."> Ignite </a> by <a href="https://www.rocketseat.com.br/"> Rocketseat</a>.
-<br>
 
 ### 🖥️ Learning:
 * HTML;

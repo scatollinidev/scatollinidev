@@ -1,4 +1,4 @@
-# Hey there! I'm Matheus! ⚡
+# Hey there! I'm Matheus ⚡
 <img height="250" weidth="250" src="https://i.imgur.com/01BVgAp.png"/> <img height="250" weidth="250" src="https://media1.tenor.com/images/ded4d4da9f4454f9a1d8a3fab24b500d/tenor.gif?itemid=27159958"/>
 <br>
 ## ``<Hello world/> 🙋🏻‍♂️``
